@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+  }
+  
+  section {
+    width: 100%;
+    height: auto;
+  }
+  .content {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 15px;
+    border-style: double;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    background-color: rgba(46, 191, 191, 0.792);
+  }
+
+  #btnReestablecer {
+border-radius: 30px;
+background-color: rgb(240, 137, 137);
+font-weight: bold;
+  }
+
